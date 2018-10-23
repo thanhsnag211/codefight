@@ -1,3 +1,4 @@
+// Tich hai so lien ke lon nhat trong mang
 
 package soLienKe;
 
@@ -15,5 +16,5 @@ public class soLienKe {
     }
     return max;
 }
-
 }
+//OUTPUT = 72
